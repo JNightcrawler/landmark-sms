@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<properties>
+
+<Try_counts>
+	<Try_count count="1" 	   text_message="Dear Customer, we tried contacting you regarding your order/product concern with HomeCentre. We will try contacting you again within 2 hours. Alternately, feel free to reach us out on 18002127500"/>
+	<Try_count count="2" 	   text_message="Dear Customer, we tried contacting you twice regarding your order/product concern with HomeCentre. We will try contacting you again within 2 hours. Alternately, feel free to reach us out on 18002127500"/>
+	<Try_count count="3" 	   text_message="Dear Customer, we tried contacting you thrice regarding your order/product concern with HomeCentre. Please feel free to reach us out on 18002127500."/>
+</Try_counts>
+
+<default_message>Dear Customer, we tried contacting you thrice regarding your order/product concern with HomeCentre. Please feel free to reach us out on 18002127500.</default_message>
+
+</properties>
